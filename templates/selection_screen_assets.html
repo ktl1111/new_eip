@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>資產盤點資料彙總</h1>
+    <ol>請將SAP輸出的各公司excel表分別上傳。請確認：
+        <li>檔名必須為T001.xlsx,T002.xlsx,T003.xlsx,H002.xlsx</li>
+    </ol>
+    <form method="post" enctype="multipart/form-data">
+      {% csrf_token %}
+      <input type="file" name="data_file"/>
+      <input type="submit" value="upload"/>
+    </form>
+
+</body>
+</html>

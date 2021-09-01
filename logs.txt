@@ -1,0 +1,1457 @@
+2021-08-26 16:55:36,842 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-26 17:04:02,127 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-26 17:04:02,190 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:04:34,949 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-26 17:04:34,950 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:05:09,818 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\urls.py changed, reloading.
+2021-08-26 17:05:09,818 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:05:12,875 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\urls.py changed, reloading.
+2021-08-26 17:05:12,875 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:05:36,724 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-26 17:05:36,724 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:07:50,887 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-26 17:07:50,888 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:08:11,727 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-26 17:08:14,362 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-26 17:09:56,123 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-26 17:11:03,162 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-26 17:11:03,162 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:11:05,837 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:11:16,803 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-26 17:11:34,729 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:13:00,969 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-26 17:15:40,041 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-26 17:15:40,041 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:15:50,727 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:16:35,048 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-26 17:16:42,569 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 74, in index
+    writer = pd.ExcelWriter( from_date_str + '_' + to_date_str + '_' + '怡仁訂購統計.xlsx' )
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\io\excel\_openpyxl.py", line 52, in __init__
+    super().__init__(
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\io\excel\_base.py", line 925, in __init__
+    self.handles = get_handle(
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\io\common.py", line 710, in get_handle
+    handle = open(handle, ioargs.mode)
+PermissionError: [Errno 13] Permission denied: '2021-07-01_2021-07-30_怡仁訂購統計.xlsx'
+2021-08-26 17:17:06,937 - DEBUG - Using proactor: IocpProactor
+2021-08-26 17:17:33,789 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-26 17:23:33,804 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-26 17:26:32,347 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 09:05:11,747 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:05:11,947 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:07:45,545 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:07:45,545 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:08:15,160 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:08:15,161 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:08:35,864 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:08:35,865 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:10:01,209 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:10:01,210 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:10:19,898 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:10:19,899 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:23:29,592 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:23:29,593 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:25:42,911 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:25:42,915 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:27:45,703 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:27:45,703 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:28:20,297 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 09:28:33,682 - WARNING - Not Found: /favicon.ico
+2021-08-27 09:29:50,959 - ERROR - Internal Server Error: /yeezen/download/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 156, in download
+    file = open(item_name + '_' + from_date_str + '_' + to_date_str + '_' + '怡仁訂購統計.xlsx', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'OZCOU_2021-08-01_2021-08-31_怡仁訂購統計.xlsx'
+2021-08-27 09:30:15,590 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:30:15,590 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:31:29,883 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:31:29,889 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:31:46,612 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:31:46,612 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:32:48,808 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:32:48,808 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:32:59,719 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:32:59,719 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:33:51,257 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:33:51,257 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:34:04,432 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:34:04,433 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:34:07,489 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:34:07,490 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:34:11,820 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:34:11,820 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:34:19,381 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:34:19,381 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:35:52,006 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 09:37:31,059 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:37:31,059 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:40:37,399 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:40:37,400 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:56:44,343 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:56:44,417 - DEBUG - Using proactor: IocpProactor
+2021-08-27 09:58:29,922 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 09:59:45,131 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 09:59:45,131 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:00:49,659 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:01:15,899 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:01:15,918 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:02:01,162 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:02:01,162 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:03:01,025 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:05:17,947 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:05:37,127 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:05:37,127 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:07:36,970 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:07:36,970 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:08:42,793 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:08:42,794 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:09:06,421 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:12:44,765 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:12:57,254 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\smartif.py", line 175, in translate_token
+    op = OPERATORS[token]
+KeyError: '{{'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 157, in index
+    return render(request, "selection_screen_yeezen.html", {
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loaders\base.py", line 29, in get_template
+    return Template(
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 478, in parse
+    raise self.error(token, e)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 964, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 897, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\smartif.py", line 166, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\smartif.py", line 177, in translate_token
+    return self.create_var(token)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 900, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 563, in compile_filter
+    return FilterExpression(token, self)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 662, in __init__
+    raise TemplateSyntaxError("Could not parse the remainder: '%s' "
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '{{' from '{{'
+2021-08-27 10:15:43,560 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': item_name,
+UnboundLocalError: local variable 'item_name' referenced before assignment
+2021-08-27 10:15:53,767 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:19:54,779 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:19:54,826 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:20:32,857 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:20:32,858 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:26:09,470 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:26:09,471 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:26:16,204 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:26:16,205 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:26:51,328 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:26:51,328 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:27:18,990 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:30:42,173 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:30:42,279 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:31:56,333 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:32:34,174 - ERROR - Internal Server Error: /yeezen/download/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 168, in download
+    file = open(item_name + '_' + from_date_str + '_' + to_date_str + '_' + '怡仁訂購統計.xlsx', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '_2021-06-03_2021-06-05_怡仁訂購統計.xlsx'
+2021-08-27 10:33:31,486 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:33:31,524 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:36:59,065 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': item_name,
+UnboundLocalError: local variable 'item_name' referenced before assignment
+2021-08-27 10:37:41,038 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': item_name,
+UnboundLocalError: local variable 'item_name' referenced before assignment
+2021-08-27 10:37:55,376 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': item_name,
+UnboundLocalError: local variable 'item_name' referenced before assignment
+2021-08-27 10:37:56,038 - WARNING - Not Found: /favicon.ico
+2021-08-27 10:39:09,632 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:39:09,666 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:39:13,045 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:39:13,045 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:39:17,098 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:39:17,099 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:39:18,832 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view yeezen_purchase_analysis.views.index didn't return an HttpResponse object. It returned None instead.
+2021-08-27 10:40:00,818 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:40:00,818 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:40:16,279 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view yeezen_purchase_analysis.views.index didn't return an HttpResponse object. It returned None instead.
+2021-08-27 10:41:28,703 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:41:28,703 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:42:02,514 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:42:02,514 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:42:15,598 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'from_date': from_date_str,
+UnboundLocalError: local variable 'from_date_str' referenced before assignment
+2021-08-27 10:42:16,736 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'from_date': from_date_str,
+UnboundLocalError: local variable 'from_date_str' referenced before assignment
+2021-08-27 10:42:27,934 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:42:27,934 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:43:55,284 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': item_name,
+UnboundLocalError: local variable 'item_name' referenced before assignment
+2021-08-27 10:44:02,987 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': item_name,
+UnboundLocalError: local variable 'item_name' referenced before assignment
+2021-08-27 10:44:36,032 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:44:36,048 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:45:06,221 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': item_name,
+UnboundLocalError: local variable 'item_name' referenced before assignment
+2021-08-27 10:45:46,463 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': item_name,
+UnboundLocalError: local variable 'item_name' referenced before assignment
+2021-08-27 10:46:01,614 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:46:01,614 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:46:03,916 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 159, in index
+    'from_date': from_date_str,
+UnboundLocalError: local variable 'from_date_str' referenced before assignment
+2021-08-27 10:46:10,560 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:46:10,560 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:47:05,413 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:47:05,413 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:47:07,436 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 159, in index
+    'from_date': from_date_str,
+UnboundLocalError: local variable 'from_date_str' referenced before assignment
+2021-08-27 10:47:40,248 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:47:40,248 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:47:59,756 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:47:59,756 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:48:19,655 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:49:05,840 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:52:15,905 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:52:15,906 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:53:03,146 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:53:03,147 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:53:10,110 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:53:10,111 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:53:28,831 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:55:43,944 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 10:56:08,699 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:56:08,699 - DEBUG - Using proactor: IocpProactor
+2021-08-27 10:56:14,156 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 10:56:14,157 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:00:36,342 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:00:36,342 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:00:54,036 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:02:10,937 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:02:10,937 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:02:20,025 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:04:12,636 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:04:12,636 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:04:23,810 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:06:21,146 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:06:21,146 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:06:30,662 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:09:44,846 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:09:44,846 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:09:59,342 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:11:01,744 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:11:01,744 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:11:31,593 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:24:26,124 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:24:26,125 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:27:40,764 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:28:26,122 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:28:26,122 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:28:36,013 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:29:08,779 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:29:08,779 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:29:45,591 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:29:45,591 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:30:01,664 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:30:01,665 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:30:04,717 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:30:04,717 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:30:11,689 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:37:47,679 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-27 11:37:47,680 - DEBUG - Using proactor: IocpProactor
+2021-08-27 11:38:10,190 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:42:03,533 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-27 11:48:18,968 - DEBUG - Using proactor: IocpProactor
+2021-08-30 09:26:14,516 - WARNING - Not Found: /
+2021-08-30 09:26:14,902 - WARNING - Not Found: /favicon.ico
+2021-08-30 09:27:20,121 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': request.session['item_name'],
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 65, in __getitem__
+    return self._session[key]
+KeyError: 'item_name'
+2021-08-30 09:27:31,624 - WARNING - Not Found: /
+2021-08-30 09:27:38,510 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': request.session['item_name'],
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 65, in __getitem__
+    return self._session[key]
+KeyError: 'item_name'
+2021-08-30 09:27:47,071 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': request.session['item_name'],
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 65, in __getitem__
+    return self._session[key]
+KeyError: 'item_name'
+2021-08-30 09:29:03,026 - WARNING - Not Found: /yeezen/index
+2021-08-30 09:29:26,501 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': request.session['item_name'],
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 65, in __getitem__
+    return self._session[key]
+KeyError: 'item_name'
+2021-08-30 09:32:25,785 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 158, in index
+    'item_name': request.session['item_name'],
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 65, in __getitem__
+    return self._session[key]
+KeyError: 'item_name'
+2021-08-30 09:32:25,934 - WARNING - Not Found: /favicon.ico
+2021-08-30 09:36:32,558 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 09:36:32,637 - DEBUG - Using proactor: IocpProactor
+2021-08-30 09:37:20,931 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 09:47:18,558 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 09:58:33,698 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 09:58:33,699 - DEBUG - Using proactor: IocpProactor
+2021-08-30 09:58:38,860 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 09:58:38,860 - DEBUG - Using proactor: IocpProactor
+2021-08-30 09:58:42,221 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 09:58:42,222 - DEBUG - Using proactor: IocpProactor
+2021-08-30 09:58:57,402 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 09:58:57,403 - DEBUG - Using proactor: IocpProactor
+2021-08-30 09:59:07,402 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 09:59:07,403 - DEBUG - Using proactor: IocpProactor
+2021-08-30 09:59:10,463 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 09:59:10,464 - DEBUG - Using proactor: IocpProactor
+2021-08-30 09:59:14,299 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 09:59:14,299 - DEBUG - Using proactor: IocpProactor
+2021-08-30 10:11:57,333 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 10:11:57,333 - DEBUG - Using proactor: IocpProactor
+2021-08-30 10:12:26,640 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 10:12:26,642 - DEBUG - Using proactor: IocpProactor
+2021-08-30 10:16:32,060 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 10:16:32,060 - DEBUG - Using proactor: IocpProactor
+2021-08-30 10:27:26,396 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 10:27:51,442 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 10:27:51,442 - DEBUG - Using proactor: IocpProactor
+2021-08-30 10:28:30,266 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 10:32:17,902 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 10:32:17,902 - DEBUG - Using proactor: IocpProactor
+2021-08-30 10:32:58,711 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 10:34:13,398 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 10:34:13,398 - DEBUG - Using proactor: IocpProactor
+2021-08-30 10:36:42,532 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 10:36:42,626 - DEBUG - Using proactor: IocpProactor
+2021-08-30 10:37:14,645 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 10:58:28,276 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 10:58:28,293 - DEBUG - Using proactor: IocpProactor
+2021-08-30 10:59:04,968 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 10:59:04,969 - DEBUG - Using proactor: IocpProactor
+2021-08-30 10:59:39,284 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:02:31,796 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:02:43,709 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 470, in parse
+    compile_func = self.tags[command]
+KeyError: 'elseif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 169, in index
+    return render(request, "selection_screen_yeezen.html", {
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loaders\base.py", line 29, in get_template
+    return Template(
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 478, in parse
+    raise self.error(token, e)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 965, in do_if
+    nodelist = parser.parse(('elif', 'else', 'endif'))
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 472, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 522, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 28: 'elseif', expected 'elif', 'else' or 'endif'. Did you forget to register or load this tag?
+2021-08-30 11:03:14,381 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:03:40,459 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 11:03:40,459 - DEBUG - Using proactor: IocpProactor
+2021-08-30 11:03:59,071 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:04:53,315 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 11:04:53,315 - DEBUG - Using proactor: IocpProactor
+2021-08-30 11:05:25,444 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:08:34,857 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:10:17,785 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:11:54,273 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:14:12,205 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:14:37,115 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:16:03,298 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:20:28,784 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:25:42,136 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:26:18,426 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:27:22,490 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:30:59,428 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:31:24,691 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 11:43:03,424 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 11:43:03,424 - DEBUG - Using proactor: IocpProactor
+2021-08-30 11:58:13,545 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-30 11:58:13,545 - DEBUG - Using proactor: IocpProactor
+2021-08-30 12:00:51,606 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 12:00:54,553 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 12:01:05,763 - DEBUG - Using proactor: IocpProactor
+2021-08-30 12:02:19,140 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 12:02:26,958 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 46, in index
+    for_count = df.query('date >= @from_date & date <= @to_date')  # _for_count用來做累計訂單數統計
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4055, in query
+    res = self.eval(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4186, in eval
+    return _eval(expr, inplace=inplace, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\eval.py", line 348, in eval
+    parsed_expr = Expr(expr, engine=engine, parser=parser, env=env)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 806, in __init__
+    self.terms = self.parse()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 825, in parse
+    return self._visitor.visit(self.expr)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 417, in visit_Module
+    return self.visit(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 420, in visit_Expr
+    return self.visit(node.value, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 745, in visit_BoolOp
+    return reduce(visitor, operands)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 738, in visitor
+    lhs = self._try_visit_binop(x)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 734, in _try_visit_binop
+    return self.visit(bop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 718, in visit_Compare
+    return self.visit(binop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 534, in visit_BinOp
+    return self._maybe_evaluate_binop(op, op_class, left, right)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 501, in _maybe_evaluate_binop
+    res = op(lhs, rhs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 385, in __init__
+    self.convert_values()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 484, in convert_values
+    if v.tz is not None:
+AttributeError: 'NaTType' object has no attribute 'tz'
+2021-08-30 15:40:26,588 - DEBUG - Using proactor: IocpProactor
+2021-08-30 15:41:21,621 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 15:41:29,721 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 46, in index
+    for_count = df.query('date >= @from_date & date <= @to_date')  # _for_count用來做累計訂單數統計
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4055, in query
+    res = self.eval(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4186, in eval
+    return _eval(expr, inplace=inplace, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\eval.py", line 348, in eval
+    parsed_expr = Expr(expr, engine=engine, parser=parser, env=env)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 806, in __init__
+    self.terms = self.parse()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 825, in parse
+    return self._visitor.visit(self.expr)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 417, in visit_Module
+    return self.visit(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 420, in visit_Expr
+    return self.visit(node.value, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 745, in visit_BoolOp
+    return reduce(visitor, operands)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 738, in visitor
+    lhs = self._try_visit_binop(x)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 734, in _try_visit_binop
+    return self.visit(bop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 718, in visit_Compare
+    return self.visit(binop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 534, in visit_BinOp
+    return self._maybe_evaluate_binop(op, op_class, left, right)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 501, in _maybe_evaluate_binop
+    res = op(lhs, rhs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 385, in __init__
+    self.convert_values()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 484, in convert_values
+    if v.tz is not None:
+AttributeError: 'NaTType' object has no attribute 'tz'
+2021-08-30 15:45:26,900 - DEBUG - Using proactor: IocpProactor
+2021-08-30 15:47:06,690 - WARNING - Not Found: /yeezen/js/jquery-1.9.1.min.js
+2021-08-30 15:47:15,703 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 15:47:24,453 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 48, in index
+    for_count = df.query('date >= @from_date & date <= @to_date & item == @item_name')
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4055, in query
+    res = self.eval(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4186, in eval
+    return _eval(expr, inplace=inplace, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\eval.py", line 348, in eval
+    parsed_expr = Expr(expr, engine=engine, parser=parser, env=env)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 806, in __init__
+    self.terms = self.parse()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 825, in parse
+    return self._visitor.visit(self.expr)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 417, in visit_Module
+    return self.visit(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 420, in visit_Expr
+    return self.visit(node.value, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 745, in visit_BoolOp
+    return reduce(visitor, operands)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 738, in visitor
+    lhs = self._try_visit_binop(x)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 734, in _try_visit_binop
+    return self.visit(bop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 718, in visit_Compare
+    return self.visit(binop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 534, in visit_BinOp
+    return self._maybe_evaluate_binop(op, op_class, left, right)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 501, in _maybe_evaluate_binop
+    res = op(lhs, rhs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 385, in __init__
+    self.convert_values()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 484, in convert_values
+    if v.tz is not None:
+AttributeError: 'NaTType' object has no attribute 'tz'
+2021-08-30 15:48:24,124 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 15:48:32,105 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 48, in index
+    for_count = df.query('date >= @from_date & date <= @to_date & item == @item_name')
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4055, in query
+    res = self.eval(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4186, in eval
+    return _eval(expr, inplace=inplace, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\eval.py", line 348, in eval
+    parsed_expr = Expr(expr, engine=engine, parser=parser, env=env)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 806, in __init__
+    self.terms = self.parse()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 825, in parse
+    return self._visitor.visit(self.expr)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 417, in visit_Module
+    return self.visit(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 420, in visit_Expr
+    return self.visit(node.value, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 745, in visit_BoolOp
+    return reduce(visitor, operands)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 738, in visitor
+    lhs = self._try_visit_binop(x)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 734, in _try_visit_binop
+    return self.visit(bop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 718, in visit_Compare
+    return self.visit(binop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 534, in visit_BinOp
+    return self._maybe_evaluate_binop(op, op_class, left, right)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 501, in _maybe_evaluate_binop
+    res = op(lhs, rhs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 385, in __init__
+    self.convert_values()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 484, in convert_values
+    if v.tz is not None:
+AttributeError: 'NaTType' object has no attribute 'tz'
+2021-08-30 15:48:34,883 - DEBUG - Using proactor: IocpProactor
+2021-08-30 15:56:36,892 - DEBUG - Using proactor: IocpProactor
+2021-08-30 15:58:50,947 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 15:58:59,668 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 48, in index
+    for_count = df.query('date >= @from_date & date <= @to_date & item == @item_name')
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4055, in query
+    res = self.eval(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4186, in eval
+    return _eval(expr, inplace=inplace, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\eval.py", line 348, in eval
+    parsed_expr = Expr(expr, engine=engine, parser=parser, env=env)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 806, in __init__
+    self.terms = self.parse()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 825, in parse
+    return self._visitor.visit(self.expr)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 417, in visit_Module
+    return self.visit(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 420, in visit_Expr
+    return self.visit(node.value, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 745, in visit_BoolOp
+    return reduce(visitor, operands)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 738, in visitor
+    lhs = self._try_visit_binop(x)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 734, in _try_visit_binop
+    return self.visit(bop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 718, in visit_Compare
+    return self.visit(binop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 534, in visit_BinOp
+    return self._maybe_evaluate_binop(op, op_class, left, right)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 501, in _maybe_evaluate_binop
+    res = op(lhs, rhs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 385, in __init__
+    self.convert_values()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 484, in convert_values
+    if v.tz is not None:
+AttributeError: 'NaTType' object has no attribute 'tz'
+2021-08-30 15:59:01,764 - DEBUG - Using proactor: IocpProactor
+2021-08-30 16:06:30,925 - ERROR - Internal Server Error: /yeezen/download/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 183, in download
+    file = open(item_name + '_' + from_date_str + '_' + to_date_str + '_' + '怡仁訂購統計.xlsx', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'OZCOU_2021-07-02_2021-07-04_怡仁訂購統計.xlsx'
+2021-08-30 16:07:35,685 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:07:43,945 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 46, in index
+    for_count = df.query('date >= @from_date & date <= @to_date')  # _for_count用來做累計訂單數統計
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4055, in query
+    res = self.eval(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\frame.py", line 4186, in eval
+    return _eval(expr, inplace=inplace, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\eval.py", line 348, in eval
+    parsed_expr = Expr(expr, engine=engine, parser=parser, env=env)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 806, in __init__
+    self.terms = self.parse()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 825, in parse
+    return self._visitor.visit(self.expr)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 417, in visit_Module
+    return self.visit(expr, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 420, in visit_Expr
+    return self.visit(node.value, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 745, in visit_BoolOp
+    return reduce(visitor, operands)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 738, in visitor
+    lhs = self._try_visit_binop(x)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 734, in _try_visit_binop
+    return self.visit(bop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 718, in visit_Compare
+    return self.visit(binop)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 411, in visit
+    return visitor(node, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 534, in visit_BinOp
+    return self._maybe_evaluate_binop(op, op_class, left, right)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\expr.py", line 501, in _maybe_evaluate_binop
+    res = op(lhs, rhs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 385, in __init__
+    self.convert_values()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\pandas\core\computation\ops.py", line 484, in convert_values
+    if v.tz is not None:
+AttributeError: 'NaTType' object has no attribute 'tz'
+2021-08-30 16:07:47,693 - DEBUG - Using proactor: IocpProactor
+2021-08-30 16:11:24,078 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:11:31,878 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:11:32,100 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:11:32,920 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:11:33,032 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:13:03,736 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:13:11,905 - WARNING - Not Found: /favicon.ico
+2021-08-30 16:14:46,914 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:43:06,496 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:52:59,637 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:53:07,661 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'yeezen_purchase_analysis'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 58, in index
+    return render(request, "selection_screen_yeezen.html", {
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'yeezen_purchase_analysis' is not a registered namespace
+2021-08-30 16:53:35,634 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:53:43,790 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'yeezen_purchase_analysis'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 58, in index
+    return render(request, "selection_screen_yeezen.html", {
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'yeezen_purchase_analysis' is not a registered namespace
+2021-08-30 16:57:02,132 - DEBUG - Using proactor: IocpProactor
+2021-08-30 16:57:24,661 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 16:57:54,973 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 17:01:33,514 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 17:16:28,979 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 17:16:29,364 - DEBUG - Using proactor: IocpProactor
+2021-08-30 17:16:33,662 - WARNING - Not Found: /yeezen/js/jquery-1.9.1.min.js
+2021-08-30 17:16:37,908 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 17:18:01,389 - WARNING - Not Found: /yeezen/js/jquery-1.9.1.min.js
+2021-08-30 17:18:18,159 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 17:18:30,814 - WARNING - Not Found: /yeezen/js/jquery-1.9.1.min.js
+2021-08-30 17:22:14,384 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-30 17:22:27,225 - WARNING - Not Found: /yeezen_purchase_analysis/js/jquery-1.9.1.min.js
+2021-08-31 09:56:39,037 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 09:56:52,129 - WARNING - Not Found: /favicon.ico
+2021-08-31 10:02:31,818 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 10:02:33,165 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 10:02:54,227 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 102, in index
+    wb = load_workbook(item_name + '_' + from_date_str + '_' + to_date_str + '_' + '怡仁訂購統計.xlsx')
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\openpyxl\reader\excel.py", line 317, in load_workbook
+    reader.read()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\openpyxl\reader\excel.py", line 282, in read
+    self.read_worksheets()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\openpyxl\reader\excel.py", line 228, in read_worksheets
+    ws_parser.bind_all()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\openpyxl\worksheet\_reader.py", line 448, in bind_all
+    self.bind_cells()
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\openpyxl\worksheet\_reader.py", line 351, in bind_cells
+    for idx, row in self.parser.parse():
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\openpyxl\worksheet\_reader.py", line 144, in parse
+    for _, element in it:
+  File "C:\Python39\lib\xml\etree\ElementTree.py", line 1256, in iterator
+    data = source.read(16 * 1024)
+  File "C:\Python39\lib\zipfile.py", line 922, in read
+    data = self._read1(n)
+  File "C:\Python39\lib\zipfile.py", line 990, in _read1
+    data += self._read2(n - len(data))
+  File "C:\Python39\lib\zipfile.py", line 1025, in _read2
+    raise EOFError
+EOFError
+2021-08-31 10:02:54,609 - WARNING - Not Found: /favicon.ico
+2021-08-31 10:05:17,676 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 10:05:54,846 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 10:07:40,980 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 10:16:47,017 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 10:17:00,294 - WARNING - Not Found: /favicon.ico
+2021-08-31 10:20:57,905 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 10:27:00,686 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\new_eip\urls.py changed, reloading.
+2021-08-31 10:27:00,698 - DEBUG - Using proactor: IocpProactor
+2021-08-31 10:28:33,901 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\new_eip\urls.py changed, reloading.
+2021-08-31 10:28:33,901 - DEBUG - Using proactor: IocpProactor
+2021-08-31 10:29:29,870 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\new_eip\urls.py changed, reloading.
+2021-08-31 10:29:29,871 - DEBUG - Using proactor: IocpProactor
+2021-08-31 10:29:50,497 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 10:29:58,941 - WARNING - Not Found: /favicon.ico
+2021-08-31 10:47:18,709 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\urls.py changed, reloading.
+2021-08-31 10:47:18,719 - DEBUG - Using proactor: IocpProactor
+2021-08-31 10:47:54,400 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 10:48:02,846 - WARNING - Not Found: /favicon.ico
+2021-08-31 10:51:21,915 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\urls.py changed, reloading.
+2021-08-31 10:51:21,916 - DEBUG - Using proactor: IocpProactor
+2021-08-31 10:51:30,234 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\new_eip\urls.py changed, reloading.
+2021-08-31 10:51:30,234 - DEBUG - Using proactor: IocpProactor
+2021-08-31 11:10:18,989 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'yeezen_purchase_analysis'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 176, in index
+    return render(request, "selection_screen_yeezen.html")
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'yeezen_purchase_analysis' is not a registered namespace
+2021-08-31 11:10:52,416 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\new_eip\settings.py changed, reloading.
+2021-08-31 11:10:52,433 - DEBUG - Using proactor: IocpProactor
+2021-08-31 11:11:25,619 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'yeezen_purchase_analysis'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 176, in index
+    return render(request, "selection_screen_yeezen.html")
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'yeezen_purchase_analysis' is not a registered namespace
+2021-08-31 11:13:09,580 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\new_eip\settings.py changed, reloading.
+2021-08-31 11:13:09,581 - DEBUG - Using proactor: IocpProactor
+2021-08-31 11:13:16,250 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'yeezen_purchase_analysis'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 176, in index
+    return render(request, "selection_screen_yeezen.html")
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'yeezen_purchase_analysis' is not a registered namespace
+2021-08-31 11:14:16,452 - DEBUG - Using proactor: IocpProactor
+2021-08-31 11:14:24,693 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'yeezen_purchase_analysis'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 176, in index
+    return render(request, "selection_screen_yeezen.html")
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'yeezen_purchase_analysis' is not a registered namespace
+2021-08-31 11:15:43,306 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\new_eip\urls.py changed, reloading.
+2021-08-31 11:15:43,306 - DEBUG - Using proactor: IocpProactor
+2021-08-31 11:16:09,356 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\new_eip\urls.py changed, reloading.
+2021-08-31 11:16:09,356 - DEBUG - Using proactor: IocpProactor
+2021-08-31 11:18:00,782 - DEBUG - Using proactor: IocpProactor
+2021-08-31 11:18:35,590 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 11:18:49,159 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 169, in index
+    return render(request, "selection_screen_yeezen.html", {
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'download' not found. 'download' is not a valid view function or pattern name.
+2021-08-31 11:29:45,383 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\new_eip\settings.py changed, reloading.
+2021-08-31 11:29:45,440 - DEBUG - Using proactor: IocpProactor
+2021-08-31 11:30:14,048 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 11:30:26,647 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 169, in index
+    return render(request, "selection_screen_yeezen.html", {
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'download' not found. 'download' is not a valid view function or pattern name.
+2021-08-31 11:31:53,625 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 11:32:06,436 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 169, in index
+    return render(request, "selection_screen_yeezen.html", {
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'download' not found. 'download' is not a valid view function or pattern name.
+2021-08-31 11:32:25,085 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\new_eip\urls.py changed, reloading.
+2021-08-31 11:32:25,085 - DEBUG - Using proactor: IocpProactor
+2021-08-31 11:33:50,417 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 11:41:54,938 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 11:45:00,626 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 11:45:06,962 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 13:44:49,190 - DEBUG - Using proactor: IocpProactor
+2021-08-31 13:45:54,444 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 13:48:00,573 - ERROR - Internal Server Error: /yeezen/download/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 191, in download
+    file = open(from_date_str + '_' + to_date_str + '_' + '怡仁訂購統計.xlsx', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '2021-08-02_2021-08-02_怡仁訂購統計.xlsx'
+2021-08-31 13:48:17,611 - ERROR - Internal Server Error: /yeezen/download/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 191, in download
+    file = open(from_date_str + '_' + to_date_str + '_' + '怡仁訂購統計.xlsx', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '2021-08-02_2021-08-02_怡仁訂購統計.xlsx'
+2021-08-31 13:48:26,899 - ERROR - Internal Server Error: /yeezen/download/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 191, in download
+    file = open(from_date_str + '_' + to_date_str + '_' + '怡仁訂購統計.xlsx', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '2021-08-02_2021-08-02_怡仁訂購統計.xlsx'
+2021-08-31 13:49:51,246 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 13:54:49,112 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:00:12,671 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:09:30,302 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-31 14:09:30,302 - DEBUG - Using proactor: IocpProactor
+2021-08-31 14:10:10,450 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:10:18,586 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 58, in index
+    return render(request, "selection_screen_yeezen.html", {
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'yeezen_results' not found. 'yeezen_results' is not a valid view function or pattern name.
+2021-08-31 14:11:25,865 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-31 14:11:25,865 - DEBUG - Using proactor: IocpProactor
+2021-08-31 14:13:50,869 - DEBUG - Using proactor: IocpProactor
+2021-08-31 14:15:09,980 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\urls.py changed, reloading.
+2021-08-31 14:15:09,981 - DEBUG - Using proactor: IocpProactor
+2021-08-31 14:15:10,880 - DEBUG - Using proactor: IocpProactor
+2021-08-31 14:15:26,134 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:15:33,830 - ERROR - Internal Server Error: /yeezen/
+Traceback (most recent call last):
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py", line 58, in index
+    return render(request, "selection_screen_yeezen.html", {
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Vany.Liu\PycharmProjects\new_eip\venv\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'yeezen_results' not found. 'yeezen_results' is not a valid view function or pattern name.
+2021-08-31 14:16:29,263 - INFO - C:\Users\Vany.Liu\PycharmProjects\new_eip\yeezen_purchase_analysis\views.py changed, reloading.
+2021-08-31 14:16:29,263 - DEBUG - Using proactor: IocpProactor
+2021-08-31 14:16:38,407 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:17:08,677 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:37:33,939 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:45:00,578 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:51:50,760 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:52:03,463 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 14:56:08,566 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:56:16,392 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 14:59:07,875 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 14:59:25,539 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 14:59:33,494 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:03:20,847 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:03:35,668 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:04:38,058 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:04:51,463 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:05:39,006 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:05:51,713 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:07:11,568 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:07:23,834 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:08:35,036 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:08:42,943 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:08:52,054 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:09:33,811 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:09:34,760 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:09:49,939 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:11:54,843 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:12:02,894 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:12:19,631 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:12:55,359 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:13:03,553 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:13:57,547 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:14:10,082 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:14:32,525 - WARNING - Not Found: /yeezen/styles.css
+2021-08-31 15:15:50,839 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:27:43,595 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:28:56,200 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:47:11,710 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:48:18,209 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:49:19,123 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:51:47,633 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:52:53,918 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:54:38,304 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:55:30,054 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:57:20,622 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:57:45,203 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 15:59:20,059 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 16:01:56,643 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 16:02:57,538 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 16:04:40,476 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 16:05:51,795 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 16:06:05,770 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 16:07:40,413 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 16:08:22,569 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 16:08:56,978 - DEBUG - **********出貨給怡仁(VBAK-KUNNR)的交貨單(LIPS)*********
+2021-08-31 17:14:08,922 - DEBUG - Using proactor: IocpProactor
